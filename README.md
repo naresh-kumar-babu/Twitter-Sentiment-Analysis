@@ -1,3 +1,3 @@
 # Twitter-Sentiment-Analysis
 
-It is a Natural Language Processing Problem where Sentiment Analysis is done by Classifying the Positive tweets from negative tweets by machine learning models for classification, text mining, text analysis, data analysis and data visualization
+We extract the tweets tweeted by a user and clean the  fetched tweets. We, then use TextBlob for sentiment analysis and printing its polarity.
